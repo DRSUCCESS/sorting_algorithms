@@ -1,0 +1,11 @@
+12. Dealer
+#advanced
+Score: 0.0% (Checks completed: 0.0%)
+
+
+
+Write a function that sorts a deck of cards.
+
+Prototype: void sort_deck(deck_node_t **deck);
+You are allowed to use the C standard library function qsort
+Please use the following data structures:
